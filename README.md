@@ -16,7 +16,9 @@ The purpose of these projects is to establish a controlled environment for simul
 - Network analysis tool - Wireshark - for capturing and examining network traffic
 - Packet filtering tool - Windows Firewall with Advanced Security
 
-### Project Walkthrough
+### Steps
+
+Below are the steps taken to accomplish the objective of this project.
 
 <p align="center">
 Launch the utility: <br/>
